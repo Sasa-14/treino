@@ -1,0 +1,71 @@
+body{
+    background-color: blanchedalmond;
+}
+
+
+
+h1 {
+
+}
+
+.n1 {
+    color: chocolate;
+    font-size: 35px;
+    background-color: bisque;
+    margin-left: 250px;
+}
+
+.n2 {
+
+    background-color: burlywood;
+    padding: 10px;
+
+}
+
+.n3{
+    background-color: bisque;
+}
+
+.i1 {
+    width: 500px;
+    border-style: double;
+    border-width: 10px;
+    border-radius: 20px;
+}
+
+.p1 {
+    display: flex;
+}
+
+p{
+
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.o1 {
+    color:chocolate;
+    font-size: 35px;
+    background-color: coral;
+    margin-left: 250px;
+}
+
+span {
+    color: chocolate;
+}
+
+span{
+    color:chocolate ;
+}
+a {
+    padding: 25px;
+    margin-left: 60px;
+}
+
+.i2 {
+    width: 500px;
+    border-style: double;
+    border-width: 10px;
+    border-radius: 20px;
+    margin-left: 550px;
+}
