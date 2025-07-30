@@ -27,9 +27,9 @@ h1 {
 }
 
 .i1 {
-    width: 500px;
+    width: 400px;
     border-style: double;
-    border-width: 20px;
+    border-width: 10px;
     border-radius: 10px;
     margin-left: 10px;
 }
@@ -66,10 +66,10 @@ a {
 }
 
 .i2 {
-    width: 500px;
+    width: 400px;
     border-style: double;
-    border-width: 20px;
-    border-radius: 10px;
+    border-width: 10px;
+    border-radius: 20px;
     margin-left: 20px;
 }
 
@@ -86,13 +86,32 @@ a {
 }
 
 .i3 {
-    width: 500px;
+    width: 600px;
     border-style: double;
-    border-width: 30px;
-    border-radius: 20px;
-    margin-left: 30px;
+    border-width: 40px;
+    border-radius: 30px;
+    margin-left: 40px;
 }
 
 .o3{
     display: flex;
 }
+
+.i4 {
+    width: 400px;
+    border-style: double;
+    border-width: 20px;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+
+.o4 {
+    color:chocolate;
+    font-size: 35px;
+    background-color: coral;
+    margin-left: 250px;
+ }
+
+ .o5 {
+    display: flex;
+ }
